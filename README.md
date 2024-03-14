@@ -1,12 +1,12 @@
+## 👨‍💻 &nbsp;Sobre mim
 ### Olá, eu sou o Rafael Oliveira <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
 - 🔎 &nbsp;Auxilio empresas e pessoas a estabelecerem presença na internet, analisar dados, e integrar sistemas.
 
 - 📡 &nbsp;Entre em contato para explorarmos ideias.
 
- ---
 
-🔗 &nbsp;**Siga-me**
+## 🌐 &nbsp;Redes
 <p align="left">
 <a href="https://linkedin.com/in/raf2019" target="blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/512/2111/2111499.png" alt="rafael-linkedin-profile" height="30" width="30" /></a>
 &nbsp;
@@ -17,14 +17,20 @@
 <!-- [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raf2019)
 [![Blog](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/raf2019) -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raf2019&show_icons=true&theme=radical)
+<br/>
 
+## 📊 &nbsp;Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raf2019&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+<br/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raf2019&show_icons=true&theme=radical)
+<br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 <br/>
 <br/>
 
+## 🧰 &nbsp;Ferramentas
 ### Linguagens / Tecnologias
 ##### Frontend
 <div style="display: inline_block"><br/>
